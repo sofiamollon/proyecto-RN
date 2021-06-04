@@ -5,9 +5,14 @@ import {
   View, 
   Alert
 } from 'react-native';
+import {getUsers} from "./src/api/RandomUsers"
 
 class App extends Component { 
-  render () { }
+  render () { 
+    <View> 
+
+    </View>
+  }
 }
 
 export default App;
